@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Darshanlanjewar/LeetCode/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darshanlanjewar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/Darshanlanjewar/LeetCode/tree/master/0120-triangle) |
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Darshanlanjewar/LeetCode/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darshanlanjewar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Darshanlanjewar/LeetCode/tree/master/0120-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Darshanlanjewar/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
