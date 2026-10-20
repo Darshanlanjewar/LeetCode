@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Darshanlanjewar/LeetCode/tree/master/0067-add-binary) |
+| [3886-sum-of-sortable-integers](https://github.com/Darshanlanjewar/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Darshanlanjewar/LeetCode/tree/master/0120-triangle) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Darshanlanjewar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darshanlanjewar/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Darshanlanjewar/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Darshanlanjewar/LeetCode/tree/master/0018-4sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Darshanlanjewar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darshanlanjewar/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Darshanlanjewar/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Darshanlanjewar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/Darshanlanjewar/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
