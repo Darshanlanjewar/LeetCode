@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Darshanlanjewar/LeetCode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/Darshanlanjewar/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Darshanlanjewar/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
