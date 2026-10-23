@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Darshanlanjewar/LeetCode/tree/master/0067-add-binary) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Darshanlanjewar/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darshanlanjewar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/Darshanlanjewar/LeetCode/tree/master/0120-triangle) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Darshanlanjewar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Darshanlanjewar/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darshanlanjewar/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Darshanlanjewar/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
