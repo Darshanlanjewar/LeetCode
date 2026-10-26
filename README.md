@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Darshanlanjewar/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Darshanlanjewar/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darshanlanjewar/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/Darshanlanjewar/LeetCode/tree/master/0120-triangle) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Darshanlanjewar/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Darshanlanjewar/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Darshanlanjewar/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Darshanlanjewar/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Darshanlanjewar/LeetCode/tree/master/3886-sum-of-sortable-integers) |
@@ -99,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Darshanlanjewar/LeetCode/tree/master/0069-sqrtx) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Darshanlanjewar/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Darshanlanjewar/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Darshanlanjewar/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
